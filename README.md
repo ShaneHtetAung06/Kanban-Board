@@ -1,3 +1,5 @@
+
+
 # Kanban Board
 A modern, interactive Kanban board application built with React and Vite. Organize tasks across multiple columns (To Do, Doing, Done), track team productivity, and visualize project progress with an integrated dashboard.
 
@@ -5,6 +7,15 @@ A modern, interactive Kanban board application built with React and Vite. Organi
     Shane Htet Aung - 6740002
     Aung Myint Myat - 6746035
     Phone Nay Tun   - 6747002
+
+## ScreenShots:
+
+<img width="1599" height="852" alt="Screenshot 2026-09-02 130936" src="https://github.com/user-attachments/assets/718e89d8-4839-44b2-b5ff-0a86f6dd04b6" />
+<img width="1593" height="855" alt="Screenshot 2026-09-02 130950" src="https://github.com/user-attachments/assets/47f1bb84-a97c-40b6-9614-1ee9e9cdf9d0" />
+<img width="1594" height="805" alt="Screenshot 2026-09-02 131000" src="https://github.com/user-attachments/assets/eece8100-0fea-4b84-9a1c-a1ac9a40a308" />
+<img width="1586" height="840" alt="Screenshot 2026-09-02 131006" src="https://github.com/user-attachments/assets/62caa24c-2915-424e-a90f-7f6225e57aad" />
+<img width="1565" height="844" alt="Screenshot 2026-09-02 131018" src="https://github.com/user-attachments/assets/26cd6eef-e991-483c-ba70-217de8bc2248" />
+
 
 ## Features
 
